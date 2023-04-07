@@ -16,7 +16,7 @@ Download and execute 'python main.py'
 
 ## Output
 The output is a python dictionary with two properties
-- -SS: base suitability score
+- -ss: base suitability score
 - -shipments: list of tuple with **street** and **driver** names
 
 **Example**
